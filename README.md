@@ -4,8 +4,8 @@
 Eu sou Estudante de Analise e desenvolvimento de Sistemsas Pela Unifor.
 
 ## Status
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-kunst&show_icons=true&locale=en&layout=compact" alt="felipe-kunst" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-kunst&show_icons=true&locale=en" alt="felipe-kunst" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-kunst&show_icons=true&locale=en&layout=compact" alt="felipe-kunst" /></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-kunst&show_icons=true&locale=en" alt="felipe-kunst" /></p>
+
 
 ## Linguagens que ultilizo(ei)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,python,nodejs)](https://skillicons.dev)
