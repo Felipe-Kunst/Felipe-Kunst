@@ -19,21 +19,16 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento d
 <div align="center">
   
 ### Linguagens e Ferramentas que utilizo(ei)
-
-<br>
-
-[![Minhas Habilidade](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,python,nodejs,eclipse,arduino,react,vscode,figma,git,github,supabase&theme=light&perline=16)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,python,nodejs,eclipse,arduino,react,vscode,figma,git,github,supabase&theme=light&perline=16" width="800"/>
 </div>
 
 
 <div align="center">
-
+  
 ###  Linguagens e Ferramentas que estou Estudando
-<br>
-
-[![Em aprenizado](https://skillicons.dev/icons?i=spring,androidstudio,kotlin,idea&theme=light)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=spring,androidstudio,kotlin,idea&theme=light" width="200" />
 <div>
-<p align="Right"> <img src="https://komarev.com/ghpvc/?username=felipe-kunst&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-kunst" /> </p>
+  
+<p align="Right"> <img src="https://komarev.com/ghpvc/?username=felipe-kunst&label=Profile%20views&color=0e75b6&style=flat" alt="ViewsDaPagina" /> </p>
 
 
