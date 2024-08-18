@@ -1,27 +1,39 @@
 # Olá 👋, me chamo Felipe Kunst
 
-## Um pouco sobre mim
-Eu sou Estudante de Analise e desenvolvimento de Sistemsas Pela Unifor.
+Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Aqui você encontrará uma coleção dos meus projetos acadêmicos e pessoais, bem como contribuições para projetos open-source.
 
-## Status
-<div style="display: flex; justify-content: space-between; margin: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-kunst&show_icons=true&locale=en&layout=compact" alt="felipe-kunst"/>
-<img src="https://github-readme-stats.vercel.app/api?username=felipe-kunst&show_icons=true&locale=en" alt="felipe-kunst" />
+
+## Meus Status
+
+<a href="https://github.com/Felipe-Kunst">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-Kunst&locale=pt-br" />
+</a>
+<a href="https://github.com/Felipe-Kunst">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-Kunst&layout=compact&langs_count=8&card_width=320&locale=pt-br" />
+</a>
+
+<br>
+<br>
+
+
+<div align="center">
+  
+### Linguagens e Ferramentas que utilizo(ei)
+
+<br>
+
+[![Minhas Habilidade](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,python,nodejs,eclipse,arduino,react,vscode,figma,git,github,supabase&theme=light&perline=16)](https://skillicons.dev)
 </div>
 
-## Linguagens que ultilizo(ei)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,python,nodejs)](https://skillicons.dev)
 
-## Ferramentas que ultilizo(ei)
-[![My Skills](https://skillicons.dev/icons?i=eclipse,arduino,react,vscode,figma,git,github,supabase)](https://skillicons.dev)
+<div align="center">
 
-## Meios de Comunicação
-<a href="https://linkedin.com/in/Felipe-Kunst" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://discord.gg/.felipe_martins" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="Felipe-Kunst@outlook.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
+###  Linguagens e Ferramentas que estou Estudando
+<br>
 
+[![Em aprenizado](https://skillicons.dev/icons?i=spring,androidstudio,kotlin,idea&theme=light)](https://skillicons.dev)
 
-
+<div>
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=felipe-kunst&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-kunst" /> </p>
 
 
