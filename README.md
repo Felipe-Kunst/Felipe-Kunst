@@ -33,7 +33,7 @@ E iniciei uma nova graduação em **Ciencia da computação** pela Unifanor Wyde
         width="95"
     />
 </a>
-  <a href="" target="_blank">
+  <a href="https://felipe-kunst-portfolio.vercel.app/" target="_blank">
     <img 
         alt="Portfólio" 
         title="Acesse meu Portfólio" 
